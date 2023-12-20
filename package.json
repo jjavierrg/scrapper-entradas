@@ -1,0 +1,14 @@
+{
+  "name": "scrapper-entradas",
+  "version": "1.0.0",
+  "description": "Script que notifica cuando se publican nuevas entradas para un evento en concreto",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "José Javier Rodríguez Gallego",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@xmldom/xmldom": "^0.8.10"
+  }
+}
